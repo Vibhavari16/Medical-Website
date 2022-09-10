@@ -1,0 +1,99 @@
+.hero{
+    background-image: url("https://cdn.pixabay.com/photo/2017/03/14/03/20/woman-2141808_960_720.jpg");
+    width: 100%;
+    height: 100vh;
+    background-size: cover;
+}
+.btnhero{
+    width: 15rem;
+    height: 3rem;
+    background-color:rgb(215, 100, 100);
+    color: white;
+    
+}
+.service-card{
+    width: 20rem;
+    height: 24rem;
+}
+.btnservice{
+    width: 15rem;
+    height: 4rem;
+    background-color:rgb(12, 12, 76) ;
+    color: white;
+}
+
+.img-nurse{
+    border-radius: 50%;
+    width: 5rem;
+    height: 5rem;
+    
+}
+.service-h4{
+    color: rgb(22, 22, 100);
+}
+.personal{
+    width: 24rem;
+    height: 20rem;
+    border-radius: 5%;
+}
+.img2{
+    height: 30rem;
+    width: 24rem;
+    border-radius: 2%;
+}
+.btn3{
+    background-color:rgb(215, 100, 100);
+    width: 8rem;
+    height: 3rem;
+    color: white;
+
+}
+.section-h1{
+    color: rgb(22, 22, 100);
+
+}
+.rating{
+    background-image: url("https://cdn.pixabay.com/photo/2022/08/28/20/40/hearts-7417487_960_720.png");
+    background-size: cover;
+}
+.care-h1 {
+    color: rgb(22, 22, 100);
+
+}
+.imglab{
+    width: 4rem;
+    height: 3rem;
+    
+}
+.card-care{
+    width: 17rem;
+    height: 12rem;
+}
+.booking-h1{
+    color: rgb(22, 22, 100);
+
+}
+.inpt{
+    width: 17rem;
+}
+.imgbooking{
+    width: 30rem;
+    height: 40rem;
+}
+.btnbooking{
+    width: 13rem;
+    height: 3rem;
+    background-color:rgb(12, 12, 76) ;
+    color: white;
+}
+.support-h1{
+    color: rgb(22, 22, 100);
+
+}
+.imgsupport{
+    width: 10rem;
+    height: 5rem;
+}
+.footer-div{
+    height: 30vh;
+}
